@@ -60,7 +60,7 @@
     "eslint-plugin-react-hooks": "^1.6.0",
     "eslint-plugin-wix-style-react": "1.0.96",
     "execa": "1.0.0",
-    "express": "4.17.1",
+    "express": "4.19.2",
     "externalize-relative-module-loader": "1.0.0",
     "file-loader": "3.0.1",
     "filesize": "4.1.2",
