@@ -171,7 +171,7 @@
     "minimatch": "3.0.4",
     "mocha-env-reporter": "3.0.2",
     "ng-annotate": "1.2.2",
-    "node-fetch": "2.6.0",
+    "node-fetch": "2.6.7",
     "node-sass": "4.12.0",
     "phantomjs-polyfill": "0.0.2",
     "protractor": "5.4.2",
