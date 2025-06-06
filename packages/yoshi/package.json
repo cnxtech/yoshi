@@ -133,7 +133,7 @@
     "webpack": "4.28.4",
     "webpack-bundle-analyzer": "3.3.2",
     "webpack-dev-middleware": "3.7.0",
-    "webpack-dev-server": "3.2.1",
+    "webpack-dev-server": "5.2.1",
     "webpack-hot-client": "4.1.1",
     "webpack-hot-middleware": "2.25.0",
     "webpack-node-externals": "1.7.2",
